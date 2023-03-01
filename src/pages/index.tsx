@@ -13,8 +13,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <h1>index</h1>
+        <h1>Home</h1>
         <Link href="/posts/first-post">First Post</Link>
+        <Link href="/posts/second-post">Second Post</Link>
       </main>
     </>
   )
