@@ -16,6 +16,7 @@ export default function Home() {
         <h1>Home</h1>
         <Link href="/posts/first-post">First Post</Link>
         <Link href="/posts/second-post">Second Post</Link>
+        <Link href="/posts/third-post">Third Post</Link>
       </main>
     </>
   )
